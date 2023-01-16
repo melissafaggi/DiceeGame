@@ -1,0 +1,60 @@
+body{
+    background-color: #48465e;
+    color: #FFE2E2;
+    font-family: 'Satisfy', cursive;
+    margin: 5% 10%;
+    text-align: center;
+}
+
+
+/* CLASSES */
+
+.btn{
+    background-color: #FFE2E2;
+    border-color: #48465e;
+    color: #48465e;
+    font-size: 2vw;
+}
+
+.title{
+    font-size: 5vw;
+    text-decoration-line: underline;
+    text-decoration-thickness: 0.4vw;
+}
+
+.subtitle{
+    font-size: 3vw;
+}
+
+
+/* CONTAINERS */
+
+.top-container{
+    padding-bottom: 5%;
+}
+
+.middle-container .dice{
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-container{
+    padding-top: 2%;
+    line-height: 5;
+
+}
+
+.player1{
+    padding-left: 5%;
+    padding-right: 0;
+}
+
+.player2{
+    padding-right: 5%;
+    padding-left: 0;
+}
+
+.trophy{
+    height: 10%;
+    width: 10%;
+}
